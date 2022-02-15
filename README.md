@@ -32,3 +32,10 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=HenriqueVazquez&show_icons=true&theme=vision-friendly-dark" alt="HenriqueVAzquez's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueVazquez&layout=compact&theme=vision-friendly-dark" alt="HenriqueVazquez's most languages"/>
 </p>
+
+## ⚡ &nbsp;Social Links
+
+<a href="https://www.linkedin.com/in/henrique-vazquez/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
