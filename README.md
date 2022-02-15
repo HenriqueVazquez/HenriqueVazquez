@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on at RCKY
 - 🌱 I am currently learning HTML, CSS, JavaScript, node, React Js, SQL, MongoDB and more at RocketSeat
-- 🤔 I’m looking for help with JavaScript, node, React Js
-- 💬 Ask me about JavaScript, node, React Js
-- 📫 How to reach me: HTML, CSS, JavaScript, node, React Js, SQL, MongoDB
+- 🤔 I’m looking for help with HTML, CSS, JavaScript, node, React Js, SQL, MongoDB
+- 💬 Ask me about HTML, CSS, JavaScript, node, React Js, SQL, MongoDB
+
 
 ## 🛠 &nbsp;Tech Stack
 
