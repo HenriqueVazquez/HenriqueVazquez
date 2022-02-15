@@ -36,6 +36,6 @@
 ## ⚡ &nbsp;Social Links
 
 <a href="https://www.linkedin.com/in/henrique-vazquez/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-HenriqueVazquez-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-HenriqueVazquez-05122A?style=flat&logo=linkedin" target="_blank" alt="linkedin"/>
 </a>
 
